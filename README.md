@@ -17,7 +17,7 @@ Panel görseli çalışma anında `@resvg/resvg-js` ile oluşturulur. Yönetim p
 1. Depoyu klonlayın ve proje klasörüne girin.
 
 ```bash
-git clone https://github.com/Saldiraay/Discord-TempVoice-Manager.git
+git clone https://github.com/Saldiraay/TempVoice-Manager.git
 cd voice-manager
 npm install
 ```
